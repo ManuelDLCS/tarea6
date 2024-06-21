@@ -15,14 +15,3 @@ Realiza una aplicación en flutter o el framework que prefieras que muestre que 
 6. Una vista donde mostraras el logo de alguna página web hecha con WordPress y luego mostraras el titular y resumen de las últimas 3 noticias publicadas en la misma. Colocar un link visitar donde nos lleva a la noticia original: Ejemplo del api: https://kinsta.com/blog/wordpress-rest-api/, debes publicar el API que usaras en el foro: Foro de las paginas de wordpress
 
 7.Agregue una opción acerca de, donde mostraras tu foto y datos de contactos para posibles trabajos. 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
