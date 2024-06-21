@@ -15,3 +15,5 @@ Realiza una aplicación en flutter o el framework que prefieras que muestre que 
 6. Una vista donde mostraras el logo de alguna página web hecha con WordPress y luego mostraras el titular y resumen de las últimas 3 noticias publicadas en la misma. Colocar un link visitar donde nos lleva a la noticia original: Ejemplo del api: https://kinsta.com/blog/wordpress-rest-api/, debes publicar el API que usaras en el foro: Foro de las paginas de wordpress
 
 7.Agregue una opción acerca de, donde mostraras tu foto y datos de contactos para posibles trabajos. 
+
+Manuel de Jesús De la Cruz Solano, 2021-1967
